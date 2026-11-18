@@ -1,0 +1,1 @@
+2a41370e4ee121796bdbf65a2efeae99e80b58d1 2026-10-16T17:41:53+07:00 fix: pool usable despite CDN lag (purge on validate, 6h max age, keep last good, pool visible in stats+dashboard)
